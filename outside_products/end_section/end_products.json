@@ -1,6 +1,8 @@
 {
     "data": {
         "info": "end_section",
+        "colorCard": "CCA0BABF",
+        "colorBackgroundText": "#B790A7",
         "array": [
             {"name": "Эндерняк", "altNames": ["End Stone", "Строительные блоки", "Building Blocks"], "count": "64", "description": "1", "img": "end_icons/end_stone"},
             {"name": "Эндерняковые кирпичи", "altNames": ["End Stone Bricks", "Строительные блоки", "Building Blocks"], "count": "64", "description": "1", "img": "end_icons/end_stone_bricks"},
